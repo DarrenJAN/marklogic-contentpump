@@ -1117,11 +1117,6 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>org.apache.jena</groupId>
-      <artifactId>jena-shaded-guava</artifactId>
-      <version>4.8.0</version>
-    </dependency>
-    <dependency>
       <groupId>com.github.andrewoma.dexx</groupId>
       <artifactId>collection</artifactId>
       <version>0.7</version>
