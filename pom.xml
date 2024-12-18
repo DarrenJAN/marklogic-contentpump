@@ -346,6 +346,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -412,6 +416,10 @@
          <exclusion>
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -564,6 +572,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -643,6 +655,10 @@
           <groupId>org.apache.hadoop.thirdparty</groupId>
           <artifactId>hadoop-shaded-protobuf_3_21</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -693,6 +709,10 @@
          <exclusion>
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -753,6 +773,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -812,6 +836,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -867,6 +895,10 @@
           <groupId>org.apache.hadoop.thirdparty</groupId>
           <artifactId>hadoop-shaded-protobuf_3_21</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -909,6 +941,10 @@
         <exclusion>
           <groupId>org.apache.hadoop.thirdparty</groupId>
           <artifactId>hadoop-shaded-protobuf_3_21</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -1001,6 +1037,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -1051,6 +1091,10 @@
          <exclusion>
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -1451,6 +1495,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -1486,6 +1534,10 @@
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+        </exclusion> 
       </exclusions>
     </dependency>
     <dependency>
