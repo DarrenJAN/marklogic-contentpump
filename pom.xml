@@ -347,6 +347,10 @@
           <artifactId>protobuf-java</artifactId>
         </exclusion>
         <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
+        <exclusion>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
@@ -420,6 +424,10 @@
         <exclusion>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -552,6 +560,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -635,6 +647,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -689,6 +705,10 @@
         <exclusion>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -748,6 +768,10 @@
          <exclusion>
           <groupId>com.google.protobuf</groupId>
           <artifactId>protobuf-java</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
         </exclusion>
         <exclusion>
           <groupId>io.netty</groupId>
@@ -816,6 +840,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -875,6 +903,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -921,6 +953,10 @@
         <exclusion>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -1017,6 +1053,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -1071,6 +1111,10 @@
         <exclusion>
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
@@ -1475,6 +1519,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion>
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -1514,6 +1562,10 @@
           <groupId>io.netty</groupId>
           <artifactId>netty-common</artifactId>
         </exclusion> 
+        <exclusion>
+          <groupId>org.eclipse.jetty</groupId>
+          <artifactId>jetty-http</artifactId>
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
